@@ -1,6 +1,9 @@
 # ghezibde-geonames-autocomplete
-<<<<<<< HEAD
-Ghezibde autocomplete for place names using geonames in local language.
-=======
-Ghezibde autocomplete for place names using geonames in local language.
->>>>>>> 3b1c2c6759ccf0d2733c59e6d1ffe1c694cfeaf2
+
+Ghezibde autocomplete module for webtrees
+
+Place names are collected from geonames in local language (instead of the user language in webtrees)
+
+[Ghezibde](https://www.ghezibde.net/genealogie/)
+
+[Webtrees](https://github.com/fisharebest/webtrees)
